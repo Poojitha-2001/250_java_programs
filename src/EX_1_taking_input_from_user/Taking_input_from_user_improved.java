@@ -1,4 +1,4 @@
-package java_programs_250.taking_input_from_user;
+package EX_1_taking_input_from_user;
 
 import java.util.Scanner;
 
